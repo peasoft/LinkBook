@@ -1,7 +1,10 @@
 # LinkBook
 LinkBook是一个让电脑控制手机的软件。本软件以[scrcpy](https://github.com/Genymobile/scrcpy)为基础，但增加了人性化教程。双击 `LinkBook.bat` 即可使用。
 
-## 请注意：
+## 下载
+请运行 `git clone https://github.com/peasoft/LinkBook.git`
+
+## 请注意
 - 要使用本工具，安卓系统版本必须为**5.0或更高**！
 - Windows版本必须为**Windows7或更高**！
 - 请**关闭一切助手类软件**！
